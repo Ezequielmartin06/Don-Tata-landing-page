@@ -71,6 +71,7 @@ header{
     font-family: "Montagu Slab", serif;
     font-optical-sizing: auto;
     font-style: medium;
+    font-size: 1.1em;
     color: #FFFFFF;
     border-radius: 15px;
     background-color: #260A08;
@@ -156,6 +157,7 @@ main{
     background-color: #F2EADF;
     color: #000000;
     font-family: "Montagu Slab", serif;
+    font-size: 1.2em;
     font-optical-sizing: auto;
     font-style: medium;
     padding: 10px;
@@ -268,7 +270,7 @@ main{
 .yerba-btn {
     align-self: center;
     font-family: "Montagu Slab", serif;
-    font-size: 1.1rem;
+    font-size: 1.2em;
     background-color: #260A08;
     color: #F2EADF;
     padding: 10px 50px;
@@ -428,7 +430,7 @@ main{
 }
 .opinion-btn{
     font-family: "Montagu Slab", serif;
-    font-size: 0.95rem;
+    font-size: 1.2rem;
     color: #fafafa;
     background-color: #260A08;
     border-radius: 15px;
